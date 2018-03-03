@@ -1,0 +1,27 @@
+/*style.css*/
+body{
+	background: #FCFEFE;
+	font-family: monospace;
+	color: #404B69;
+
+}
+h1{
+	color:#66BFBF;
+	background:#EAF6F6;
+
+}
+h2{
+	color:#F76B8A;
+	background:#EAF6F6;
+}
+
+#projectname{
+	color:#F76B8A;
+}
+
+div{
+	background: #EAF6F6;
+	border: 1px solid green;
+    border: 2px dashed #FF530D;
+    margin: 8px;
+}
